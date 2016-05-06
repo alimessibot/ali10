@@ -258,9 +258,7 @@ function create_config( )
     "rss",
     "send",
     "setloc",
-    "share",
     "spam",
-    "spammer",
     "support",
     "tagall",
     "text",
@@ -295,19 +293,22 @@ function create_config( )
     "anti_chat",
     "anti_fosh"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {206480168,196314022},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[avast-BOT V6.3 - Open Source
-An advance Administration bot based on TeleSeed 
-
-https://github.com/Arashalone/avast-BOT-V6.3
-
-Developer:
-Arash Nomiri @arashnomiri
-
-Our channel:
-@avast_Team
+    about_text = [[☠Telekiller robot V6.3☠
+    
+    
+    💥created by Eblis team💥
+    
+    
+    🏅 sudo users 🏅 
+     @Xx_fire_boy_eblis_xX
+     
+      @kos_khahare_zendegi
+      
+       ➡️ our chanal: :/⬅️
+       〰〰〰〰〰〰〰〰〰〰〰
 ]],
     help_text_realm = [[
 Realm Commands:
