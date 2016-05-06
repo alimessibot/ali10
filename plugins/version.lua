@@ -1,15 +1,19 @@
 do
 
 function run(msg, matches)
-  return 'avast-BOT V6.3'.. VERSION .. [[ 
+  return '☠Telekiller robot V6.3☠'.. VERSION .. [[ 
  
-  Developer : @arashnomiri
+  💥created by Eblis team💥
   
-  Channel : @avast_team
+  🏅 sudo users 🏅
   
-  Open git : https://github.com/Arashalone/avast-BOT-V6.3.git
+  @Xx_fire_boy_eblis_xX
   
- avast-BOT V6.3
+   @kos_khahare_zendegi
+  
+   ➡️ our chanal: :/⬅️                                                       〰〰〰〰〰〰〰〰〰〰〰
+  
+ Telekiller-BOT V6.3
   
   All rights reserved.
   __________________]]
