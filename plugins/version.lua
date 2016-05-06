@@ -14,6 +14,8 @@ function run(msg, matches)
    ➡️ our chanal: :/⬅️                                                       〰〰〰〰〰〰〰〰〰〰〰
   
  Telekiller-BOT V6.3
+ 
+ ⚡️bot id⚡️: telegram.me/Xx_tele_killer_supergp_xX
   
   All rights reserved.
   __________________]]
